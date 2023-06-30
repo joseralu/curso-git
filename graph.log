@@ -1,0 +1,18 @@
+* bd19eb3 Añadiendo dos párrafos Lorem
+*   8c4c9b9 Merge branch 'main' of https://github.com/joseralu/curso-git
+|\  
+| * 07f932a Agregando estaciones del año con fecha de inicio
+* | 999b83f Modificando fecha de inicio estación de Invierno
+* | 99213d6 Agregando estaciones del año con fecha de inicio
+|/  
+* 424a34d Agregando las estaciones del año
+*   4ffc16b Resolviendo conflicto merge main/html en el documento index.html
+|\  
+| * 1dc4564 Agregando index.js al index.html
+* | 470d6f0 Agregando style.css al index.html
+|/  
+* f1b27ea Creando index.html
+* c232ad5 Ignorando archivos .exe
+* 13a3e79 Creando licencia del repositorio
+* 668ab5a Agregando contenido al README
+* a180994 Primer commit

@@ -1,0 +1,85 @@
+commit bd19eb34032350809350b207f9e0d8fa0862ce57
+Author: Jose Ramos <joseralu97@gmail.com>
+Date:   Fri Jun 30 11:36:45 2023 +0200
+
+    Añadiendo dos párrafos Lorem
+
+commit 8c4c9b94288b5aee386f1bd2773dc0655f9c7d66
+Merge: 999b83f 07f932a
+Author: Jose Ramos <joseralu97@gmail.com>
+Date:   Fri Jun 30 11:24:46 2023 +0200
+
+    Merge branch 'main' of https://github.com/joseralu/curso-git
+
+commit 999b83f16e584d3f774c44dfd4b10473d979ef47
+Author: Jose Ramos <joseralu97@gmail.com>
+Date:   Fri Jun 30 11:07:04 2023 +0200
+
+    Modificando fecha de inicio estación de Invierno
+
+commit 99213d6d7a7d48f186e7e2520290260602240aad
+Author: Jose Ramos <joseralu97@gmail.com>
+Date:   Fri Jun 30 10:51:05 2023 +0200
+
+    Agregando estaciones del año con fecha de inicio
+
+commit 07f932a83067fff0b3b52bb4f0d2d5056f6282c1
+Author: Jose Ramos <joseralu97@gmail.com>
+Date:   Fri Jun 30 10:51:05 2023 +0200
+
+    Agregando estaciones del año con fecha de inicio
+
+commit 424a34dfbc893dab21aa4210119df5eaa200cbe1
+Author: Jose Ramos <joseralu97@gmail.com>
+Date:   Fri Jun 30 10:38:24 2023 +0200
+
+    Agregando las estaciones del año
+
+commit 4ffc16bd56857fdcc7c82d1bb1737b8036414c1d
+Merge: 470d6f0 1dc4564
+Author: Jose Ramos <joseralu97@gmail.com>
+Date:   Fri Jun 30 10:33:01 2023 +0200
+
+    Resolviendo conflicto merge main/html en el documento index.html
+
+commit 1dc45640237df75926414b253ce75791a635986b
+Author: Jose Ramos <joseralu97@gmail.com>
+Date:   Fri Jun 30 10:24:57 2023 +0200
+
+    Agregando index.js al index.html
+
+commit 470d6f0b51e3d26a4078ffcb986229bcd8dc0a63
+Author: Jose Ramos <joseralu97@gmail.com>
+Date:   Fri Jun 30 10:20:49 2023 +0200
+
+    Agregando style.css al index.html
+
+commit f1b27ea4008faaa998f18fa6ee4a2c3f0fb052ae
+Author: Jose Ramos <joseralu97@gmail.com>
+Date:   Thu Jun 29 18:37:48 2023 +0200
+
+    Creando index.html
+
+commit c232ad54062f978dd26c7201b7a143e921f951de
+Author: Jose Ramos <joseralu97@gmail.com>
+Date:   Thu Jun 29 18:20:28 2023 +0200
+
+    Ignorando archivos .exe
+
+commit 13a3e798d20760863c9fc42a460579bd1df34ece
+Author: joserl <131895761+joseralu@users.noreply.github.com>
+Date:   Thu Jun 29 17:36:57 2023 +0200
+
+    Creando licencia del repositorio
+
+commit 668ab5a227c50f67947a4ca94c178ad513f9eceb
+Author: Jose Ramos <joseralu97@gmail.com>
+Date:   Thu Jun 29 17:23:05 2023 +0200
+
+    Agregando contenido al README
+
+commit a180994b5ce6dffb43300d1b0430fc479462f721
+Author: Jose Ramos <joseralu97@gmail.com>
+Date:   Thu Jun 29 17:04:44 2023 +0200
+
+    Primer commit
