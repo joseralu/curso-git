@@ -1,3 +1,21 @@
+commit 382ec424ede05cdcfaa3d3940214ea52727fddd7
+Author: Jose Ramos <joseralu97@gmail.com>
+Date:   Mon Jul 3 17:37:44 2023 +0200
+
+    Agregando imagen de flujo Git y embelleciendo el index.html
+
+commit dfc0732b71c08c191958faffec3b2bf4c71c5f6a
+Author: Jose Ramos <joseralu97@gmail.com>
+Date:   Mon Jul 3 17:03:34 2023 +0200
+
+    v1.0.0
+
+commit c1a78d31bc910017b81ccee50e39d31077a9000e
+Author: Jose Ramos <joseralu97@gmail.com>
+Date:   Fri Jun 30 12:05:27 2023 +0200
+
+    Cambio de extensión de archivo (commits y graphs) de .txt a .log
+
 commit bd19eb34032350809350b207f9e0d8fa0862ce57
 Author: Jose Ramos <joseralu97@gmail.com>
 Date:   Fri Jun 30 11:36:45 2023 +0200
